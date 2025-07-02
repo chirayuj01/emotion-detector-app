@@ -1,4 +1,4 @@
-# ed_proj
+# emotion-detector-app
 
 A new Flutter project.
 
